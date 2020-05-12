@@ -1,0 +1,11 @@
+{
+  "name": "testNodejs",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "*",
+    "portscanner": "^2.2.0",
+    "socket.io": "*",
+    "socketio-file-upload": "^0.4.4"
+  }
+}
